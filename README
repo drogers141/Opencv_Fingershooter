@@ -1,0 +1,9 @@
+Dave Rogers
+www.drogers.us
+
+Fingershooter
+
+This is a C++ application that uses the OpenCV computer vision library.  The program attempts to recognize a hand in a camera capture, and if the hand has all five fingers extended, it shoots multicolored "bullets" from the fingertips.  See
+http://www.drogers.us/demos/fingershooter/
+for demo and discussion.
+
